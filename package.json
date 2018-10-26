@@ -2,7 +2,7 @@
   "name": "playnine",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://melissaz.github.io/GamePlayNine/",
+  "homepage": "https://melissaz.github.io/GamePlayNine/",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "gh-pages": "^2.0.1",
@@ -14,8 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

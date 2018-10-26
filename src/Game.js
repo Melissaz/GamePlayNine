@@ -195,7 +195,7 @@ class Game extends Component {
       const {selectedNumbers, numberOfStars, answerIsCorrect, usedNumbers, redrawNumber, doneStatus} = this.state;
     return (
       <div className="container">
-        <h3>Play Nine</h3>
+        <h2>Play Nine</h2>
         <div className="row">
             <Stars numberOfStars={numberOfStars}/>
             <Button selectedNumbers={selectedNumbers}
