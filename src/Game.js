@@ -50,7 +50,7 @@ const Button = (props) => {
             break;
         default:
         button =
-        <button className="btn" 
+        <button className="btn btn-dark" 
         onClick={props.checkAnswer}
         disabled={props.selectedNumbers.length ===0 }>
         =
@@ -90,7 +90,7 @@ const Numbers = (props) => {
         }
     };
     return(
-        <div className="card text-center">
+        <div className="card bg-secondary text-center">
             <div>
                 {arrayOfNumber.map((number, i ) => 
                     <span key={i} className={numberClassName(number)} 
@@ -195,18 +195,21 @@ class Game extends Component {
       const {selectedNumbers, numberOfStars, answerIsCorrect, usedNumbers, redrawNumber, doneStatus} = this.state;
     return (
       <div className="container">
-        <h2>Play Nine</h2>
-        <div className="row">
-            <Stars numberOfStars={numberOfStars}/>
-            <Button selectedNumbers={selectedNumbers}
-                    checkAnswer={this.checkAnswer}
-                    answerIsCorrect={answerIsCorrect} 
-                    acceptAnswer={this.acceptAnswer} 
-                    redraw={this.redraw} 
-                    redrawNumber={redrawNumber}/>
-            <Answer selectedNumbers={selectedNumbers} 
-                    unselectNumber={this.unselectNumber} />
+        <h1>Play Nine</h1>
+        <div className="gamecontent">
+            <div className="row">
+                <Stars numberOfStars={numberOfStars}/>
+                <Button selectedNumbers={selectedNumbers}
+                        checkAnswer={this.checkAnswer}
+                        answerIsCorrect={answerIsCorrect} 
+                        acceptAnswer={this.acceptAnswer} 
+                        redraw={this.redraw} 
+                        redrawNumber={redrawNumber}/>
+                <Answer selectedNumbers={selectedNumbers} 
+                        unselectNumber={this.unselectNumber} />
+            </div>
         </div>
+        
         <br />
         {doneStatus ? 
         <DoneFrame doneStatus={doneStatus}  resetGame={this.resetGame} />:

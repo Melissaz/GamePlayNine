@@ -8,9 +8,10 @@ span{
     margin:0.5em;
     text-align:center;
     background-color:#ccc;
-    width:24px;
+    width:33px;
     border-radius: 50%;
     cursor:pointer;
+    font-size:22px;
 }
 
 .numbers-selected{
@@ -30,3 +31,6 @@ span{
 }
 
 
+.gamecontent{
+    margin-top:50px;
+}
