@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/GamePlayNine/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "f49fb752d1a445b078a0",
-    "url": "/GamePlayNine/static/css/main.eda222be.chunk.css"
+    "revision": "ba3db312f93ef59ba9f7",
+    "url": "/GamePlayNine/static/css/main.2a28213e.chunk.css"
   },
   {
     "revision": "3843905c453cf35e53ab0332a8ef3db9",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/GamePlayNine/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "f49fb752d1a445b078a0",
-    "url": "/GamePlayNine/static/js/main.f49fb752.chunk.js"
+    "revision": "ba3db312f93ef59ba9f7",
+    "url": "/GamePlayNine/static/js/main.ba3db312.chunk.js"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/GamePlayNine/static/css/1.fcdeeb84.chunk.css"
   },
   {
-    "revision": "952e4531ba29322a7c20c2e16543af52",
+    "revision": "38bc09a38b0cac4e2e412c89b0f34093",
     "url": "/GamePlayNine/index.html"
   }
 ];

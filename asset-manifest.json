@@ -1,7 +1,7 @@
 {
-  "main.css": "/GamePlayNine/static/css/main.eda222be.chunk.css",
-  "main.js": "/GamePlayNine/static/js/main.f49fb752.chunk.js",
-  "main.js.map": "/GamePlayNine/static/js/main.f49fb752.chunk.js.map",
+  "main.css": "/GamePlayNine/static/css/main.2a28213e.chunk.css",
+  "main.js": "/GamePlayNine/static/js/main.ba3db312.chunk.js",
+  "main.js.map": "/GamePlayNine/static/js/main.ba3db312.chunk.js.map",
   "static/css/1.fcdeeb84.chunk.css": "/GamePlayNine/static/css/1.fcdeeb84.chunk.css",
   "static/js/1.9cfb1153.chunk.js": "/GamePlayNine/static/js/1.9cfb1153.chunk.js",
   "static/js/1.9cfb1153.chunk.js.map": "/GamePlayNine/static/js/1.9cfb1153.chunk.js.map",
@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/GamePlayNine/static/js/runtime~main.d573a622.js.map",
   "static/media/font-awesome.min.css": "/GamePlayNine/static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/background.jpg": "/GamePlayNine/static/media/background.3843905c.jpg",
-  "static/css/main.eda222be.chunk.css.map": "/GamePlayNine/static/css/main.eda222be.chunk.css.map",
+  "static/css/main.2a28213e.chunk.css.map": "/GamePlayNine/static/css/main.2a28213e.chunk.css.map",
   "static/css/1.fcdeeb84.chunk.css.map": "/GamePlayNine/static/css/1.fcdeeb84.chunk.css.map",
   "index.html": "/GamePlayNine/index.html",
-  "precache-manifest.5e8fe71190bb43bf085ae95b0dd0e037.js": "/GamePlayNine/precache-manifest.5e8fe71190bb43bf085ae95b0dd0e037.js",
+  "precache-manifest.cb2cacbbe0985a74dda64ef9ff00ee3a.js": "/GamePlayNine/precache-manifest.cb2cacbbe0985a74dda64ef9ff00ee3a.js",
   "service-worker.js": "/GamePlayNine/service-worker.js"
 }

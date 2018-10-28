@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GamePlayNine/precache-manifest.5e8fe71190bb43bf085ae95b0dd0e037.js"
+  "/GamePlayNine/precache-manifest.cb2cacbbe0985a74dda64ef9ff00ee3a.js"
 );
 
 workbox.clientsClaim();
